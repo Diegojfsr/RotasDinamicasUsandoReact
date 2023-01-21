@@ -13,14 +13,20 @@ Desenvolver um clone do BuzzFeed com Angular.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> O que vamos construir - <a href="https:// "> Acessar </a></li>
-<li> Criando a estrutura base - <a href="https:// "> Acessar </a></li>
-<li> Criando a estilização do projeto - <a href="https:// "> Acessar </a></li>
-<li> Criando as propriedades lógicas - <a href="https:// "> Acessar </a></li>
-<li> Criando as regras do jogo - <a href="https:// "> Acessar </a></li>
-<li> Calculando o Resultado - <a href="https:// "> Acessar </a></li>
-<li> Dicas para tornar um projeto clickbait no seu portfolio - <a href="https:// "> Acessar </a></li>
-<li> Entendendo o desafio - <a href="https:// "> Acessar </a></li>
+<li> Como usar os desafios de projeto para criar seu portfolio - <a href="https:// "> Acessar </a></li>
+<li> Apresentação inicial - <a href="https:// "> Acessar </a></li>
+<li> Proposta do conteúdo - <a href="https:// "> Acessar </a></li>
+<li> O que é serverless - <a href="https:// "> Acessar </a></li>
+<li> Conceitos centrais - <a href="https:// "> Acessar </a></li>
+<li> O desafio prático - <a href="https:// "> Acessar </a></li>
+<li> Criando e configurando um usuário - <a href="https:// "> Acessar </a></li>
+<li> Criação do projeto e configurações iniciais - <a href="https:// "> Acessar </a></li>
+<li> Criando a tabela de banco de dados - <a href="https:// "> Acessar </a></li>
+<li> Criando as funções - Parte 1 - <a href="https:// "> Acessar </a></li>
+<li> Criando as funções - Parte 2 - <a href="https:// "> Acessar </a></li>
+<li> Criando as funções - Parte 3 - <a href="https:// "> Acessar </a></li>
+<li> Revisão, desafios futuros e comentários finais - <a href="https:// "> Acessar </a></li>
+<li> Entendendo o Desafio - <a href="https:// "> Acessar </a></li>
 
 </ul>
 
