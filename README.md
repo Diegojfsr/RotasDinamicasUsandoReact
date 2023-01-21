@@ -9,7 +9,8 @@ Repositório criado para documentar todo o meu passo a passo, projetos e codigos
 
 
 <h2> 🎯 Objetivo </h2>
-Desenvolver um clone do BuzzFeed com Angular.
+Apresenta os conceitos de Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework.
+Replicar a solução implementada pelo expert ou reproduzi-la na linguagem de programação que preferir.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
