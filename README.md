@@ -67,9 +67,9 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto"> 
  <em>
-  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha: <strong> Começando no Framework Angular </strong>. 
+  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha: <strong> Principios Cloud Computer com AWS </strong>. 
   Durante o <strong> Cloud Fullstack Bootcamp - Warburg Pincus. </strong><br>
-  Conteudos ministrados pelo Especialista: Felipe Aguiar (  Tech Lead of Education, DIO ) <br>
+  Conteudos ministrados pelo Especialista: Cassiano Peres - Instrutor, DIO <br>
   Programa ofertado  pela <a href=" https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
  </em> 
  
