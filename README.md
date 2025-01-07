@@ -64,10 +64,3 @@ export default Post;
 4. Executar o Projeto
 Agora, você pode executar o projeto e testar as rotas dinâmicas.
 ``` npm run dev ```
-
-
-
-
-
-
-
